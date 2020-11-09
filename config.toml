@@ -9,4 +9,4 @@ home = [ "HTML", "RSS", "JSON"]
 showVisitedLinks = true
 disableBreadcrumb = false
 disableNextPrev = false
-themeVariant = "blue"
+themeVariant = "green"
