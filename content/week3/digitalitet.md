@@ -24,8 +24,8 @@ die sich möglichst gut auf die standardisierten Übergabepunkte verstehen, die 
 und die man idealerweise für seine eigenen Zwecke benutzen und weiterentwickeln kann.
 
 Open Source hat viel zu dieser Entwicklung beigetragen. Software, die so lizensiert ist, dass jeder sie benutzen, 
-verändern und weitergeben kann, hat geschafft, was die großen kommerziellen Systemanbieter nicht schaffen konnten 
-- eine sich selbst verstärkende weltweite Gemeinschaft zu schaffen, die stetig neue Services erfindet, 
+verändern und weitergeben kann, hat geschafft, was die großen kommerziellen Systemanbieter nicht schaffen konnten - 
+eine sich selbst verstärkende weltweite Gemeinschaft zu schaffen, die stetig neue Services erfindet, 
 Bestehendes verbessert und immer wieder Hilfsmittel erfindet, diese vielen Einzelteile neu zu kombinieren.
 
 Die großen Open Source Plattformen, allen voran github, haben sich zu den virtuellen Arbeits- und Marktplätzen weiterentwickelt. 
