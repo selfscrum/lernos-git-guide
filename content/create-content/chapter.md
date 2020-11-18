@@ -79,3 +79,7 @@ z.B. epub, mobi, html, pdf,  ...
 ##### transparente Zusammenarbeit 
 Versionen lassen sich mit Git kontrollieren, so ist gefahrlose und übersichtliche Zusammenarbeit an Texten möglich.
 
+|hello | Tabelle
+-------|--------
+Wert1  | Wert 2
+Wert 3 | Wert 4
