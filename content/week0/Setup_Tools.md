@@ -1,3 +1,9 @@
+---
+title: "Setup Tools"
+date: 2020-11-18T16:24:58+01:00
+draft: true
+---
+
 # Setup Tools
 
 Wilkommen zu Woche 0 im git for kids circle
