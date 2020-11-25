@@ -5,7 +5,9 @@ draft: false
 ---
 
 Bitte schreibe als Vorbereitung auf das erste wöchentliche Treffen einen Artikel über Dich.
+
+<span style="color:blue">Tool</span>
 Nutze hierfür ein Tool Deiner Wahl.
 
-Kleine Hilfestellung:
+<span style="color:blue">Kleine Hilfestellung:</span>
 Beschreibe aus der Perspektive Deines Blocks, warum er geschrieben wird.
