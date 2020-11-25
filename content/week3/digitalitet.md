@@ -7,6 +7,7 @@ draft: true
 
 Gelesen hat es jeder schon, die mahnenden Worte zur digitalen Transformation und wie sich unsere Welt revolutionär in kürzester Zeit ändert. 
 Was heißt das nun konkret für mich als Mitglied der digitalen Gesellschaft? 
+
 Als Konsument bin ich durch Internet und Handy Apps schon längst Teil des weltumspannenden Netzwerks von Services und Communities. 
 Ich kann liken, sharen, und meine Übernachtung oder meine nächste Taxifahrt online buchen, ohne dass ich mich dafür groß bemühen muss.
 Wenn man etwas genauer in dieses Netzwerk schaut, wird schnell klar, dass es eine Ansammlung aus Millionen von einzelnen Bestandteilen ist, 
@@ -14,6 +15,7 @@ die alle "irgendwie" miteinander kommunizieren. Technische Standards sorgen daf�
 oder zumindest dieselbe Sprache sprechen. Wir nennen diese Komponenten der digitalen Welt "Services".
 
 Einzelne Services kann man sich dabei wie Web-Benutzer vorstellen, die eine Website aufrufen, Informationen erhalten oder versenden und so ihre Arbeit besser verrichten können. 
+
 Das Ergebnis der Arbeit ist dann entweder wieder Information (schließlich leben wir im Informationszeitalter), 
 oder ein Produkt, das entsteht, eine Ware, die versendet wird, und so weiter.  
 Netzwerk-Services sind also eine Gemeinschaft von Arbeitern, die miteinander kommunizieren - nur viel schneller und regelmäßiger als Menschen das können.
