@@ -9,5 +9,5 @@ Bitte schreibe als Vorbereitung auf das erste wöchentliche Treffen einen Artike
 <span style="color:blue">Tool</span>
 Nutze hierfür ein Tool Deiner Wahl.
 
-<span style="color:blue">Kleine Hilfestellung:</span>
+<span style="color:red">Kleine Hilfestellung:</span>
 Beschreibe aus der Perspektive Deines Blocks, warum er geschrieben wird.
