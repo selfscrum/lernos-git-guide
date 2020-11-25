@@ -8,4 +8,4 @@ Bitte schreibe als Vorbereitung auf das erste wächentliche Treffen einen Artike
 Nutze hierfür ein Tool Deiner Wahl.
 
 Kleine Hilfestellung:
-Beshreibe aus der Perspektive Deines Blocks, warum er geschrieben wird.
+Beschreibe aus der Perspektive Deines Blocks, warum er geschrieben wird.
