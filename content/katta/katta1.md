@@ -4,7 +4,7 @@ date = 2020-11-03T21:22:26+01:00
 draft: false
 ---
 
-Bitte schreibe als Vorbereitung auf das erste wächentliche Treffen einen Artikel über Dich.
+Bitte schreibe als Vorbereitung auf das erste wöchentliche Treffen einen Artikel über Dich.
 Nutze hierfür ein Tool Deiner Wahl.
 
 Kleine Hilfestellung:
