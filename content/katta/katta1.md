@@ -6,7 +6,7 @@ draft: false
 
 Bitte schreibe als Vorbereitung auf das erste wöchentliche Treffen einen Artikel über Dich.
 
-<span style="color:blue">Tool</span>
+\textcolor{Tool}{red}
 Nutze hierfür ein Tool Deiner Wahl.
 
 <span style="color:red">Kleine Hilfestellung:</span>
