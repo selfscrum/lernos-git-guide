@@ -16,4 +16,4 @@ Account in GitHub anlegen
 
 Branches
 
-![](C:\Users\clair\AppData\Roaming\marktext\images\2020-11-24-22-13-57-image.png)
+![](./2020-11-24-22-13-57-image.png)
