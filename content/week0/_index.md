@@ -6,8 +6,8 @@ chapter = true
 pre = "<b> </b>"
 +++
 
-### Woche 0
+## Woche 0
 
-# Check in / Who is who? Deine Ziele?
+### Check in / Who is who? Deine Ziele?
 
 Lorem Ipsum.

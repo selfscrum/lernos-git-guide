@@ -6,7 +6,7 @@ draft: false
 
 Wilkommen zu Woche 0 im git for kids circle
 
-Zu Beginn müssen ein paar Accounts angelegt und Tools installieren. Hierbei gibt es immer mögliche Alternativen. Ein paar Alternativen werden wir hier vorstellen, Du kannst die kommenden Kapitel aber auch mit Tools Deiner Whal verfolgen.
+Zu Beginn müssen ein paar Accounts angelegt und Tools installieren. Hierbei gibt es immer mögliche Alternativen. Ein paar Alternativen werden wir hier vorstellen, Du kannst die kommenden Kapitel aber auch mit Tools Deiner Wahl verfolgen.
 
 
 

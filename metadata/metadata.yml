@@ -1,0 +1,19 @@
+---
+title: "lernOS Markdown & Git Leitfaden"
+subtitle: "Gemeinsam Textprojekte durchführen"
+author: [Wir Alle]
+date: "Version 0.0.1"
+titlepage: true
+titlepage-background: metadata/images/pic05.jpg
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "000000"
+titlepage-rule-height: 0
+links-as-notes: true
+lof: false
+toc: true
+toc-own-page: true
+toc-depth: 3
+logo: metadata/images/selfscrum-square.png
+logo-width: 150
+---
+

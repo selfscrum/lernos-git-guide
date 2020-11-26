@@ -3,6 +3,7 @@ title: "Die Kommmandozeile und du"
 date: 2020-11-18T16:24:58+01:00
 draft: false
 ---
+## Die Kommandozeile und du
 
 Wenn du im Kino eine Film siehst, in dem Computerspezialisten irgendetwas Geheimnisvolles erledigen, klicken sie meist nicht mit der Maus herum, sondern arbeiten mit Fenstern mit vielen Textausgaben, die am Bildschirm durchlaufen, nachdem sie kryptische Kommandos eingegeben haben. Das sieht spektakulär und kompliziert aus. Im echten Leben ist es meist nicht so geheimnisvoll. Die durchlaufenden Texte sind meist Statusmeldungen von Systemen und das Tastaturgeklapper kommt von der Eingabe von Befehle auf der so genannten Kommandozeile ein, wodurch die Profis ein Anwendungsprogramm oder eine bestimmte Datenverarbeitung starten.
 

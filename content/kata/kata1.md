@@ -11,4 +11,4 @@ Nutze hierfür ein Tool Deiner Wahl.
 
 <span style="color:red">Kleine Hilfestellung:</span>
 
-Beschreibe aus der Perspektive Deines Blocks, warum er geschrieben wird.
+Beschreibe aus der Perspektive Deines Blogs, warum er geschrieben wird.
