@@ -5,16 +5,17 @@ draft: true
 ---
 
 
-Gelesen hat es jeder schon, die mahnenden Worte zur digitalen Transformation und wie sich unsere Welt revolutionär in kürzester Zeit ändert. 
-Was heißt das nun konkret für mich als Mitglied der digitalen Gesellschaft? 
+Gelesen hat es wohl jeder schon, die mahnenden Worte zur digitalen Transformation und wie sich unsere Welt revolutionär in kürzester Zeit ändert. 
+Was heißt das nun konkret für uns als Mitglieder der digitalen Gesellschaft? 
 
-Als Konsument bin ich durch Internet und Handy Apps schon längst Teil des weltumspannenden Netzwerks von Services und Communities. 
-Ich kann liken, sharen, und meine Übernachtung oder meine nächste Taxifahrt online buchen, ohne dass ich mich dafür groß bemühen muss.
-Wenn man etwas genauer in dieses Netzwerk schaut, wird schnell klar, dass es eine Ansammlung aus Millionen von einzelnen Bestandteilen ist, 
+Als Konsument sind wir durch Internet und Handy Apps schon längst Teil des weltumspannenden Netzwerks von Services und Communities. 
+Wir können liken, sharen, und unsere Übernachtung oder die nächste Taxifahrt online buchen, ohne dass wir uns dafür groß bemühen müssen.
+
+Wenn wir etwas genauer in dieses Netzwerk schauen, wird schnell klar, dass es eine Ansammlung aus Millionen von einzelnen Bestandteilen ist, 
 die alle "irgendwie" miteinander kommunizieren. Technische Standards sorgen dafür, dass sich diese Komponenten untereinander verstehen 
 oder zumindest dieselbe Sprache sprechen. Wir nennen diese Komponenten der digitalen Welt "Services".
 
-Einzelne Services kann man sich dabei wie Web-Benutzer vorstellen, die eine Website aufrufen, Informationen erhalten oder versenden und so ihre Arbeit besser verrichten können. 
+Einzelne Services können wir uns dabei wie Web-Benutzer vorstellen, die eine Website aufrufen, Informationen erhalten oder versenden und so ihre Arbeit besser verrichten können. 
 
 Das Ergebnis der Arbeit ist dann entweder wieder Information (schließlich leben wir im Informationszeitalter), 
 oder ein Produkt, das entsteht, eine Ware, die versendet wird, und so weiter.  
