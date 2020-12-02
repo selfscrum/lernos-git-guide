@@ -5,7 +5,7 @@ draft: false
 weight: 4
 ---
 
-* [x] Bitte erstelle Dir eine Branch im [lernos GitHub Repository](...)
-* [x] Bitte lade die Beschreibung über Dich aus Woche 1 in Deine Branch des [lernos GitHub Repository](...) hoch 
-* [x] Erstelle einen Pull Request, um Deine Datei in den Master zu pushen
-* [x] Push Deine Datei nach dem akzeptierten Pull Request in die Master Branch
+* [ ] Bitte erstelle Dir eine Branch im [lernos GitHub Repository](...)
+* [ ] Bitte lade die Beschreibung über Dich aus Woche 1 in Deine Branch des [lernos GitHub Repository](...) hoch 
+* [ ] Erstelle einen Pull Request, um Deine Datei in den Master zu pushen
+* [ ] Push Deine Datei nach dem akzeptierten Pull Request in die Master Branch
