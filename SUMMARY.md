@@ -9,7 +9,7 @@
 # Einleitung
 
 * [Hallo](README.md)
-* [Arbeiten und Lernen in der Digitalität](content/week3/digitalitaet.md)
+* [Arbeiten und Lernen in der Digitalität](content/week0/digitalitaet.md)
 
 # Der Markdown & Git Lernpfad
 
