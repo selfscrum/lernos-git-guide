@@ -1,5 +1,7 @@
 name: CommitWebSite
-on: push
+on: [ push, pull request ]
+  branches: 
+    - web
 jobs:
   deploy:
     runs-on: ubuntu-18.04
