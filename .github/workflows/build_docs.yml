@@ -59,7 +59,6 @@ jobs:
     - name: Set step variables
       run: |
         echo "PROJECT=$(cat metadata/metadata.yml | grep ^title: | awk -F' ' '{ print $2 }' | tr -d '"')" >> $GITHUB_ENV
-        echo "
         FILELIST=$(printf '%s ' `cat SUMMARY.md | grep '[*]\(.*\)' | awk -F'(' '{print $2}' | tr -d ')'` )
         echo "FILELIST=$FILELIST" >> $GITHUB_ENV
         for i in $FILELIST; do sed -i '1{/^---$/!q;};1,/^---$/d' $i; done
