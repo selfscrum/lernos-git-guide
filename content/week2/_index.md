@@ -1,10 +1,10 @@
-+++
-title = "Week2"
-date = 2020-11-03T21:23:34+01:00
-weight = 3
-chapter = true
-pre = "<b></b>"
-+++
+---
+title: "Week2"
+date: 2020-11-03T21:23:34+01:00
+weight: 3
+chapter: true
+pre: "<b></b>"
+---
 
 ### Woche 2
 
