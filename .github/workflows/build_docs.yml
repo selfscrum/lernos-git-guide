@@ -37,9 +37,10 @@
 name: Build Docs
 
 # Triggers the workflow on push events but only for the docs branch
-on: 
-  push
-
+on: [ push, pull request ]
+  branches: 
+    - docs
+      
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build_pdf:
