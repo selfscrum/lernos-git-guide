@@ -26,4 +26,3 @@
 * [Überblick zum Anhang](README.md)
 * [Links](README.md)
 * [Lizenz](README.md)
-
