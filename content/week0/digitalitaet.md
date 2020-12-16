@@ -1,7 +1,9 @@
 ---
+
 title: "Arbeiten und Lernen in der Digitalität"
 date: 2020-11-15T16:24:58+01:00
 draft: true
+
 ---
 
 # Arbeiten und Lernen in der Digitalität
