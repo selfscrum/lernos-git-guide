@@ -5,6 +5,7 @@
 # Danksagung
 
 * [Danksagung](README.md)
+* [Arbeiten und Lernen in der Digitalität](content/week0/digitalitaet.md)
 
 # Einleitung
 
