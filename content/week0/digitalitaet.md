@@ -4,6 +4,7 @@ date: 2020-11-15T16:24:58+01:00
 draft: true
 ---
 
+# Arbeiten und Lernen in der Digitalität
 
 Gelesen hat es wohl jeder schon, die mahnenden Worte zur digitalen Transformation und wie sich unsere Welt revolutionär in kürzester Zeit ändert. 
 Was heißt das nun konkret für uns als Mitglieder der digitalen Gesellschaft? 
